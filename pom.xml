@@ -8,12 +8,12 @@
         <version>4.0.6</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.Tienda</groupId>
-    <artifactId>tienda</artifactId>
-    
+    <groupId>com.caso</groupId>
+    <artifactId>caso2</artifactId>
+
     <version>1</version>
-    <name>tienda</name>
-    <description>Proyecto Tienda</description>
+    <name>caso2</name>
+    <description>Proyecto Caso 2</description>
     <url/>
     <licenses>
         <license/>
@@ -29,7 +29,7 @@
     </scm>
     <properties>
         <java.version>17</java.version>
-        <start-class>com.Tienda.tienda.TiendaApplication</start-class>
+        <start-class>com.caso.caso2.Caso2Application</start-class>
         <maven.compiler.release>17</maven.compiler.release>
     </properties>
     <dependencies>
